@@ -5,5 +5,6 @@
 - ASP.NET Core
 - Entity Framework
 - JavaScript
-- Cgart.js
-
+- Chart.js
+## Лицензия
+Распространяется по лицензии *MIT*
